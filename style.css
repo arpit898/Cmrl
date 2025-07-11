@@ -1,0 +1,19 @@
+
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+#map {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 100%;
+}
+.marker-label {
+  background: rgba(255,255,255,0.95);
+  padding: 6px;
+  border-radius: 5px;
+  font-size: 12px;
+  max-width: 220px;
+}
